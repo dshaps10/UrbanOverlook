@@ -1,14 +1,10 @@
-.container {
-	border: 2px solid black;
-}
-
 .header {
 	padding-left: 20px;
 	padding-right: 20px;
 }
 
 #home-banner {
-	background-image: url("https://www.daihoibaptit.org/campimages/2016banner.jpg");
+	background-color: orange;
 	height: 500px;
 }
 

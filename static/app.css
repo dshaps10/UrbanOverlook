@@ -4,7 +4,10 @@
 }
 
 #home-banner {
-	background-color: orange;
+	background-image: url("http://theplanetd.com/images/treasure-island-san-francisco-photography-guide.jpg");
+	background-size: cover;
+	text-align: center;
+	background-repeat: no-repeat;
 	height: 500px;
 }
 

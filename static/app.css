@@ -4,7 +4,15 @@
 }
 
 #home-banner {
-	padding-right: 40px;
+	background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Fall-Wallpapers-HD-For-Desktop.jpg");
+	background-size: cover;
+	text-align: center;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+
+#home-banner {
 	background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Fall-Wallpapers-HD-For-Desktop.jpg");
 	background-size: cover;
 	text-align: center;

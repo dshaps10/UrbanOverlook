@@ -4,11 +4,18 @@
 }
 
 #home-banner {
-	background-image: url("http://theplanetd.com/images/treasure-island-san-francisco-photography-guide.jpg");
+	padding-right: 40px;
+	background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Fall-Wallpapers-HD-For-Desktop.jpg");
 	background-size: cover;
 	text-align: center;
+	background-position: bottom;
 	background-repeat: no-repeat;
-	height: 500px;
+	height: 700px;
+}
+
+h1 {
+	padding-top: 350px;
+	font-size: 8em;
 }
 
 h2 {
